@@ -1,5 +1,5 @@
 ---
-title: Copy of Programming the Invader
+title: Programming the Invader
 layout: post
 author: aidan.john
 permalink: /copy-of-programming-the-invader/
