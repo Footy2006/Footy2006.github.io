@@ -18,8 +18,7 @@ html {
 }
 
 body {
-  background-image: url("https://i1.wp.com/7-themes.com/data_images/collection/3/4443457-cool-backgrounds.png?resize=640%2C400");
-  background-size: cover;
+  background-image: url("https://i1.wp.com/7-themes.com/data_images/collection/3/4443457-cool-backgrounds.png?resize=640%2C400");  background-size: cover;
   background-position: fixed;
   font-size: 18px;
   font-family: $helvetica;
@@ -29,8 +28,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  padding: 0 10px;  width: 100%;
 }
 table {
     border-collapse: collapse;
@@ -56,7 +54,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 4px solid black;
 }
 
 h1 {
@@ -84,11 +82,11 @@ p {
 }
 
 a {
-  color: #ff0000;
+  color: red;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: red;
   }
 }
 
