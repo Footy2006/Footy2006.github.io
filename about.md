@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-Hi, I am learning how to make a webste and code at school.
+Hi, I am learning how to make a webiste and code at school.
 
 ### Contact me
 
