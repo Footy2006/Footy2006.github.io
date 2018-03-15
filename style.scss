@@ -29,10 +29,6 @@ container {
   padding: 0 10px;  width: 100%;
   background: Linear-gradient(#57e7f2, #000000);
 }
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -58,8 +54,6 @@ table, th, td {
 h1 {
   font-size: 30px;
   color: #ff0000;
-}
-
 }
 
 h2 {
