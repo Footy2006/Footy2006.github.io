@@ -1,5 +1,5 @@
 ---
-title: Carying on with our games
+title: Carrying on with our games
 layout: post
 author: aidan.john
 permalink: /carying-on-with-our-games/
