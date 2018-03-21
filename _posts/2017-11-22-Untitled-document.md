@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: my review of five retro games
 layout: post
 author: aidan.john
 permalink: /untitled-document/
