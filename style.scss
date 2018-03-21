@@ -166,9 +166,8 @@ img {
   @include mobile {
     text-align: center;
   }
-}
 
-.site-avatar {
+  .site-avatar {
   float: left;
   width: 70px;
   height: 70px;
@@ -183,7 +182,6 @@ img {
   img {
     border-radius: 5px;
   }
-}
 
 .site-info {
   float: left;
@@ -193,7 +191,6 @@ img {
     display: block;
     margin: 0 auto;
   }
-}
 
 .site-name {
   margin: 0;
