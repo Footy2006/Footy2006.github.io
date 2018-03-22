@@ -20,8 +20,9 @@ html {
 body {
 
    background-image: url("https://cdn-images-1.medium.com/max/1600/1*H1Tds2N88Oj07-e2u8EbSg.gif");   
-   background-size: cover;
-   background-position: fixed;
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-attachment: fixed;
    font: 18px/1.4 Bernard MT Condensed;
    color: red;
 }
